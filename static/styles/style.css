@@ -7,8 +7,10 @@
 
 body{
     padding: 2rem;
-    background-color: aqua;
-    color: aliceblue;
+    background-image: url('https://img.freepik.com/premium-vector/sky-clouds-design-with-flat-cartoon-poster-flyers-postcards-web-banners_771576-58.jpg'); 
+    background-size: cover; 
+    background-position: center;
+    color: rgb(58, 66, 72);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -21,4 +23,5 @@ input, button{
     font-size: 2rem;
     padding: 1rem;
     border-radius: 10px;
+    color: rgb(204, 121, 19);
 }
